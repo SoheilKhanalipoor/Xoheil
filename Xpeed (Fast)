@@ -1,0 +1,14 @@
+#profile-title: Xoheil Xpeed (Fast)
+#profile-update-interval: 24
+#profile-description: ستم دیدن به هیچ است، اگر فراموشش کنی!
+#support-url: https://example.com/
+
+vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net
+vless://35b6a5d8-41c2-4d40-9b22-b43b9d3ebd33@slyyfox.ohbah.com:443?security=reality&encryption=none&pbk=5HGjhHF1uDsbVstJNDeleGsdYVTYfyWizbXyQaqbWGc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sub.slyyfox.ohbah.com&sid=4e7e0d0d62500a5e
+trojan://OIZGTqcEYY@slyyfox.ohbah.com:443?mode=gun&security=tls&authority=slyyfox.ohbah.com&type=grpc&serviceName=%2F24134%2FlJB2ctlIa2&sni=slyyfox.ohbah.com
+vless://e6c1e5ad-c66d-434d-82a6-09e94a154dac@slyyfox.ohbah.com:443?path=%2F58531%2F33aFfwhBaG&security=tls&encryption=none&host=slyyfox.ohbah.com&type=ws&sni=slyyfox.ohbah.com
+hysteria2://Admin%3A278a38947158ff13788e83387b1da7a3@slyfox.undo.it:443?security=tls&insecure=0&sni=slyfox.undo.it
+vless://07a67acd-685e-4ec7-8831-5742b1096382@2.27.13.155:9443?security=reality&encryption=none&pbk=vCwQipA_qU-aJD2C6a2jqm66IqT5qkZZgkGVRZPTL0Y&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=4d75d148183790e1
+hysteria2://vladyskha%3AzmX2VrnNXnNCR2rTI57IiThCdd353A40@45.128.96.49:1935?security=tls&obfs=salamander&obfs-password=4SidtdpjzrvuMlHoViAwvDrkX1lbAYxi&insecure=1&sni=github.com
+vless://ebe9b318-678d-4f4c-a29b-0881c427d209@45.128.96.49:8443?security=reality&encryption=none&pbk=ReFimngDVSx-ZtKxEMpKW-JBYf2q6T9iF2hACJn4H0E&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=3912ddf3b67b0d7b
+vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@ru.ankroweb.com:443?security=reality&encryption=none&pbk=tusbVCutBtNxHmHFlyOYDQ3bXsQmRa4evaTCT8fO6FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=c8ec99103e490cc4
