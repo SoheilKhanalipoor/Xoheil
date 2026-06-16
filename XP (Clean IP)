@@ -7,72 +7,7 @@
   "outbounds": [
     {
       "type": "vmess",
-      "tag": "4",
-      "server": "193.148.59.245",
-      "server_port": 10000,
-      "uuid": "eea630ae-6812-11f1-a72b-0f3164cdfb61",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/vpnjantit",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
       "tag": "1",
-      "server": "194.156.103.162",
-      "server_port": 10000,
-      "uuid": "ffe2b8f4-680f-11f1-b765-c7a3741043d3",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/vpnjantit",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "2",
-      "server": "38.54.2.189",
-      "server_port": 10000,
-      "uuid": "ed8a45d6-6810-11f1-86a8-5254b0a2c347",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/vpnjantit",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "3",
-      "server": "89.218.15.100",
-      "server_port": 10000,
-      "uuid": "c56d4fde-6811-11f1-be7d-af9bac6bf21b",
-      "security": "auto",
-      "authenticated_length": true,
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "ws",
-        "path": "/vpnjantit",
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      }
-    }
-  ]
-}
-
-{
-  "outbounds": [
-    {
-      "type": "vmess",
-      "tag": "Amir 1 | @V2RAYNETIR § 0",
       "server": "180.149.44.124",
       "server_port": 10000,
       "uuid": "fbcef410-68f7-11f1-bfa4-f392c2ea6f3a",
@@ -87,7 +22,7 @@
     },
     {
       "type": "vmess",
-      "tag": "Amir 2 | @V2RAYNETIR § 1",
+      "tag": "2",
       "server": "194.156.103.162",
       "server_port": 10000,
       "uuid": "6af99fc4-68f9-11f1-b92f-cfa64ba3353c",
@@ -102,7 +37,7 @@
     },
     {
       "type": "vmess",
-      "tag": "Amir 3 | @V2RAYNETIR § 2",
+      "tag": "3",
       "server": "185.253.118.213",
       "server_port": 10000,
       "uuid": "8d2d2524-68fa-11f1-a89a-00163c5f28ea",
@@ -117,7 +52,7 @@
     },
     {
       "type": "vmess",
-      "tag": "Amir 4 | @V2RAYNETIR § 3",
+      "tag": "4",
       "server": "192.145.29.140",
       "server_port": 10000,
       "uuid": "cd6dc818-68fb-11f1-bbc2-83ace74f6249",
@@ -132,7 +67,7 @@
     },
     {
       "type": "vmess",
-      "tag": "Amir 5 | @V2RAYNETIR § 4",
+      "tag": "5",
       "server": "41.216.178.98",
       "server_port": 10000,
       "uuid": "b09c9966-68fc-11f1-ac33-00163ef84329",
