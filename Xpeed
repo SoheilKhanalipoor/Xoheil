@@ -4,4 +4,4 @@
 #support-url: https://example.com/
 
 
-vless://ebe9b318-678d-4f4c-a29b-0881c427d209@45.128.96.49:8443?security=reality&encryption=none&pbk=ReFimngDVSx-ZtKxEMpKW-JBYf2q6T9iF2hACJn4H0E&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=3912ddf3b67b0d7b
+vless://37d69c43-794b-4a76-9e75-9c27e6d0a0b3@auto.akr.run:443?mode=gun&security=reality&encryption=none&pbk=3BE3aU-o2yArtNTUUThiGmVDSbHIufPtQlp0CqctazY&fp=chrome&type=grpc&serviceName=Vl9AFubMLC2nIgDy&sni=bunny.net
