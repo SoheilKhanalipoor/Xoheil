@@ -1,8 +1,3 @@
-#profile-title: Xoheil Xlean
-#profile-update-interval: 24
-#profile-description: ستم دیدن به هیچ است، اگر فراموشش کنی!
-#support-url: https://example.com/
-
 {
   "outbounds": [
     {
